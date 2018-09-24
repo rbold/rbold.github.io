@@ -1,2 +1,4 @@
 name: Reid Bolding
 markdown: kramdown
+#baseurl: "/rbold"
+url: "http://reidbolding.com" 
